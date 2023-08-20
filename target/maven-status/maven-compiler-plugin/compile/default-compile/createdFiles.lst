@@ -1,0 +1,4 @@
+com\demo\junit\controller\UserController.class
+com\demo\junit\service\UserService.class
+com\demo\junit\user\User.class
+com\demo\junit\JunitApplication.class

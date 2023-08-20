@@ -1,0 +1,4 @@
+com\demo\junit\JunitApplicationTests.class
+com\demo\junit\service\UserServiceTest.class
+com\demo\junit\user\UserTest.class
+com\demo\junit\controller\UserControllerTest.class
